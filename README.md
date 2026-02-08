@@ -1,2 +1,3 @@
 # Personal-project
-HTML , CSS and javascript
+Front-end developer
+Back end developer
