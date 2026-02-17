@@ -1,0 +1,25 @@
+body{
+    background-color: brown;
+
+    
+}
+.double{
+/* add the background color  */
+background-color: orange;
+text-align: center;
+border:initial;
+border-radius:76px;
+padding: 67px;
+margin-left: 45px;
+margin-right: 45px;
+margin-top: 67px;
+
+
+}
+#bottom{
+display: inline;
+border: none;
+border-radius: 45px;
+background-color: aqua;
+text-align:center;
+}
